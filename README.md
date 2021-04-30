@@ -6,6 +6,7 @@ Requirements :
 
 Installations that needed are:
 $ pip install flask
+
 $ pip install flask-sqlalchemy 
  
 In your terminal you need to run this code for creation of database.
@@ -14,7 +15,8 @@ In your terminal you need to run this code for creation of database.
   #click enter 
   db.create_all()
 
-Run Api.py ,you get a localhost http://localhost:5000/ 
+To run this project :
+$ python Api.py ,you get a localhost http://localhost:5000/ 
 instead open the link in postman to test the api.py 
 
 use the following syntax for sending or retrieving requests:
