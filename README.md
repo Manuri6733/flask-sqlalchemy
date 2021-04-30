@@ -5,18 +5,22 @@ Requirements :
   2.postman - for running CRUD methods 
 
 Installations that needed are:
+
 $ pip install flask
 
 $ pip install flask-sqlalchemy 
  
 In your terminal you need to run this code for creation of database.
-  python-check whether installed or not
+  python
+  
   from movies import db 
-  #click enter 
+  
   db.create_all()
 
 To run this project :
-$ python Api.py ,you get a localhost http://localhost:5000/ 
+
+$ python Api.py 
+you get a localhost http://localhost:5000/ 
 instead open the link in postman to test the api.py 
 
 use the following syntax for sending or retrieving requests:
