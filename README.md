@@ -13,8 +13,8 @@ In your terminal you need to run this code for creation of database.
   > from movies import db
   > db.create_all()
 
-Run Api.py ,you get a local host https:///127.0.0.1/5000 instead 
-open the link in postman to test the api.py 
+Run Api.py ,you get a localhost http://localhost:5000/ 
+instead open the link in postman to test the api.py 
 
 use the following syntax for sending or retrieving requests:
 1. GET  http://localhost:5000/ to run the localhost
