@@ -1,17 +1,17 @@
 # flask-sqlalchemy
 This project is based on flask and SQL Alchemy performing CRUD operations .
 Requirements :
-  Python and Visual studio 
-  postman - for running CRUD methods 
+  1.Python and Visual studio 
+  2.postman - for running CRUD methods 
 
 Installations that needed are:
-  pip install flask
-  pip install flask-sqlalchemy 
+  1.pip install flask
+  2.pip install flask-sqlalchemy 
  
 In your terminal you need to run this code for creation of database.
-  python
-  from movies import db
-  db.create_all()
+ 1. python
+  >>> from movies import db
+  >>> db.create_all()
 
 Run Api.py ,you get a localhost http://localhost:5000/ 
 instead open the link in postman to test the api.py 
