@@ -5,8 +5,8 @@ Requirements :
   2.postman - for running CRUD methods 
 
 Installations that needed are:
-  1.pip install flask
-  2.pip install flask-sqlalchemy 
+$ pip install flask
+$ pip install flask-sqlalchemy 
  
 In your terminal you need to run this code for creation of database.
   python-check whether installed or not
