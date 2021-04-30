@@ -13,9 +13,11 @@ $ pip install flask-sqlalchemy
 In your terminal you need to run this code for creation of database.
   python
   
-  from movies import db 
+  > from movies import db 
   
-  db.create_all()
+  > db.create_all()
+  
+  > exit()
 
 To run this project :
 
