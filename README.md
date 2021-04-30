@@ -1,7 +1,10 @@
 # flask-sqlalchemy
 This project is based on flask and SQL Alchemy performing CRUD operations .
+
 Requirements :
+
   1.Python and Visual studio 
+  
   2.postman - for running CRUD methods 
 
 Installations that needed are:
